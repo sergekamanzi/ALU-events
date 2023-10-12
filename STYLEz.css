@@ -94,7 +94,7 @@ span{
     background-size: cover;
     /* border: solid rgb(3, 3, 3); */
     padding-bottom: 60px;
-    background-image: url(D:/blue.jpg);
+    background-color: blue;
 }
 
 .forms {
